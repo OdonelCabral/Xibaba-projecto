@@ -1,4 +1,3 @@
-
-function addToCart(produto) {
-    alert(produto + " foi adicionado ao carrinho!");
-}
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Xibaba carregado com sucesso!");
+});
